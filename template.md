@@ -5,7 +5,7 @@
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: Biomedical Engineering Student at/from  [Los Andes University](https://uniandes.edu.co/)
+- Bachelor: Biomedical Engineering Student at  [Los Andes University](https://uniandes.edu.co/)
 
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
